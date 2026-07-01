@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm [Dimas Dwi Syah]</h1>
 <h3 align="center">Software Developer yang suka membangun sesuatu yang keren dari kode</h3>
 
 <p align="center">

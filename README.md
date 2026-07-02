@@ -352,8 +352,9 @@ AI          ███████░░░░░░░░░░░░ 45%
 | 🚀 Project | Description | Status |
 |------------|------------|--------|
 | 🌸 NexaNime | Modern Anime Streaming Platform | 🚧 In Development |
-| 🤖 SAMZZ BOT | Multi Purpose WhatsApp Bot | 🔥 Active |
-| 🌐 Personal Portfolio | Premium Developer Portfolio | 🚀 Coming Soon |
+| ☕ Jual Beli akun | Websites That Provide Game Account Buying and Selling Services | 🚧 In Development |
+| 🤖 NexaAi | Ai who can be asked anything | 🚧 Maintenance |
+| 🌐 Personal Portfolio | My Introduction Website | 🔥 Active |
 
 </div>
 

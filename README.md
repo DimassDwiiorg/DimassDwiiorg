@@ -41,62 +41,43 @@
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/Zvik7pBtu9dNS/giphy.gif" alt="Coding Glitch GIF">
+</p>
 
 ```javascript
 class Developer {
+  constructor() {
+    this.name = "Dimas Dwi Syah";
+    this.username = "DimassDwiiorg";
+    this.country = "Indonesia 🇮🇩";
+    this.role = "Full Stack Developer";
 
-    constructor() {
+    this.language = [
+      "Indonesia",
+      "English"
+    ];
 
-        this.name = "Dimas Dwi Syah";
+    this.currentlyLearning = [
+      "Next.js",
+      "React",
+      "Laravel",
+      "Node.js",
+      "AI Engineering",
+      "TailwindCSS"
+    ];
 
-        this.username = "DimassDwiiorg";
-
-        this.country = "Indonesia 🇮🇩";
-
-        this.role = "Full Stack Developer";
-
-        this.language = [
-            "Indonesia",
-            "English"
-        ];
-
-        this.currentlyLearning = [
-
-            "Next.js",
-
-            "React",
-
-            "Laravel",
-
-            "Node.js",
-
-            "AI Engineering",
-
-            "TailwindCSS"
-
-        ];
-
-        this.interests = [
-
-            "Web Development",
-
-            "Artificial Intelligence",
-
-            "Automation",
-
-            "Open Source",
-
-            "UI/UX Design"
-
-        ];
-
-    }
-
+    this.interests = [
+      "Web Development",
+      "Artificial Intelligence",
+      "Automation",
+      "Open Source",
+      "UI/UX Design"
+    ];
+  }
 }
 
 export default Developer;
-```
 
 ---
 

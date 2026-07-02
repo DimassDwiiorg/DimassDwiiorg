@@ -41,7 +41,7 @@
 
 # 💫 About Me
 
-  <img align="justify" width="450" src="https://media.giphy.com/media/Zvik7pBtu9dNS/giphy.gif">
+  <img align="center" width="450" src="https://media.giphy.com/media/Zvik7pBtu9dNS/giphy.gif">
 
 
 ```javascript
@@ -255,7 +255,7 @@ Repeat 🔁
 | 🐞 Bug Fixing | ████████░░ 80% |
 | 📚 Learning | ██████████ 100% |
 | 🚀 Deploying | █████████░ 90% |
-| 🤝 Collaboration | ████████░░ 85% |
+| 🤝 Collaboration | █░░░░░░░░ 5% |
 
 </div>
 

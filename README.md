@@ -1,20 +1,35 @@
-# ⚡ ERROR: SYSTEM_OVERRIDE_DETECTED ⚡
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=LOADING+SYSTEM...;INITIALIZING+CMATRIX...;WELCOME+TO+MY+TERMINAL." alt="Typing SVG" />
+  <!-- BANNER UTAMA: GLITCH TEXT GENERATOR -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=%E2%9A%A1+SYSTEM+OVERRIDE+DETECTED+%E2%9A%A1;%E2%94%8C%E2%94%80%E2%94%90%E2%94%AC%E2%94%AC%E2%94%AC%E2%94%AC%E2%94%AC%E2%94%80%E2%94%AC%E2%94%AC%E2%94%90+%E2%96%AE;%5B+INITIALIZING+CMATRIX_V2..+%5D" alt="Glitch Terminal" />
+</p>
+
+<p align="center">
+  <!-- DYNAMIC VISITOR COUNTER DENGAN VIBE MATRIX -->
+  <img src="https://komarev.com/ghpvc/?username=DimassDwiiorg&color=00ff41&style=flat-square&label=SYS_ACCESS_COUNT" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/SECURITY-UNVERIFIED-red?style=flat-square" alt="Security Status" />
+  <img src="https://img.shields.io/badge/IP_STATUS-ENCRYPTED-00FF41?style=flat-square" alt="IP Status" />
 </p>
 
 ---
 
-## 🥷 ABOUT_ME //
-<p align="center">
-  <img src="https://img.shields.io/badge/USER-DimassDwiiorg-00FF41?style=flat-queue&logo=terminal&logoColor=00FF41&labelColor=000000" alt="Username">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=flat-queue&labelColor=000000" alt="Status">
-</p>
+## ⚡ [//] MAIN_TERMINAL > DimassDwiiorg
 
-```javascript
-const developer = {
-    name: "Dimas Dwi",
-    vibe: ["Coding", "Cyberpunk", "Minimalism"],
-    skills: ["Front-End", "Back-End", "Glitching Realities"],
-    currentFocus: "Building clean, scalable, and secure web apps"
+```text
+========================================================================
+██████╗ ██╗███╗   ███╗ █████╗ ███████╗██████╗ ██╗    ██╗██╗ 
+██╔══██╗██║████╗ ████║██╔══██╗██╔════╝██╔══██╗██║    ██║██║
+██║  ██║██║██╔████╔██║███████║███████╗██║  ██║██║ █╗ ██║██║
+██║  ██║██║██║╚██╔╝██║██╔══██║╚════██║██║  ██║██║███╗██║██║
+██████╔╝██║██║ ╚═╝ ██║██║  ██║███████║██████╔╝╚███╔███╔╝██║
+╚═════╝ ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚══╝╚══╝ ╚═╝ 
+========================================================================
+[STATUS]: ROOT_USER_CONNECTED
+[LOCATION]: THE_MATRIX
+
+/* INJECTING PROFILE_DATA... */
+const Target = {
+    user: "Dimas Dwi",
+    vibe: "Pure Coding // Digital Ghost",
+    environment: "Terminal / Neovim / Dark Mode",
+    objective: "Bending web architectures to my will."
 };

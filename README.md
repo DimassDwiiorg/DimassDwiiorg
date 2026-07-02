@@ -41,9 +41,7 @@
 
 # 💫 About Me
 
-<p align="center">
   <img width="450" src="[https://media.giphy.com/media/Zvik7pBtu9dNS/giphy.gif]" alt="Coding Glitch GIF">
-</p>
 
 
 ```javascript

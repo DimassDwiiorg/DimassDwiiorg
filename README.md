@@ -41,7 +41,7 @@
 
 # 💫 About Me
 
-  <img width="450" src="https://media.giphy.com/media/Zvik7pBtu9dNS/giphy.gif">
+  <img align="justify" width="450" src="https://media.giphy.com/media/Zvik7pBtu9dNS/giphy.gif">
 
 
 ```javascript
